@@ -1,0 +1,9 @@
+transcript
+*.log
+*.wlf
+*.vcd
+*.dat
+*.ini
+work/
+vsim.wlf
+modelsim.ini
